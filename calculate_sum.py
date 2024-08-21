@@ -20,12 +20,3 @@ def test_calculate_sum_negative():
 
 def test_calculate_sum_zero():
     assert calculate_sum(0) == 0
-
-
-"""
-N=11
-ordinal_numbers = []
-for i in range(N+1):
-    ordinal_numbers.append(i)
-print(sum(ordinal_numbers))
-"""
