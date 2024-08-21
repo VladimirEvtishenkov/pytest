@@ -1,3 +1,5 @@
+# Проверка маски поля ввода почты @gmail.
+
 def valid_mail(str):
     return "@gmail.com" in str
 
